@@ -2760,6 +2760,7 @@
 그러자 미야미야의 몸에서 빛이 나기 시작하더니 엄청난 증기가 그의 몸을 뒤덮었다.
 <!-- 빛나는 미야미야의 모습 -->
 <p align="center"><img src="https://ak.picdn.net/shutterstock/videos/11919128/thumb/1.jpg" width="50%" height="50%">
+   
 ```
 그리고 너희들의 세계로 돌아가는 방법을 알려주도록 하지
 ```
